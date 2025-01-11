@@ -127,6 +127,7 @@ body {
     color: var(--skin-color);
 }
 
- .nav li a i {
+ .aside .nav li  i {
     margin-right: 15px;
+   
 }
